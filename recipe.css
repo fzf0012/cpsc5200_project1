@@ -1,1 +1,26 @@
-<h1 style="color:Tomato;">Hello World</h1>
+h1, h2, h3 {
+    color:  #A4A400;
+    background-color: #F0F0F0;
+    font-family: "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
+    text-decoration-line: underline;
+}
+
+h1 {
+    text-align: center;
+    font: 22pt bold;
+}
+
+h2, h3 {
+    text-align: left;
+    font: 18pt normal;
+}
+
+body {
+    background-color: white;
+    color: #404040;
+    font: 11pt normal;
+    font-family: Georgia, Garamond, serif;
+    a {
+        color: #A4A400;
+    }
+}
