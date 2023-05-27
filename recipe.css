@@ -31,14 +31,15 @@ body {
     background-position: 10% 70%;
 }
 
-.top {
-    list-style-type: none;
-}
 
-ul  {
+
+.list-with-bullets {
     list-style-image: url('./images/pie_bullet.png');
 }
 
+#list-without-bullets {
+    list-style-type: none;
+}
 
 
 a {
