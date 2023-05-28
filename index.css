@@ -1,0 +1,51 @@
+/* Global Styles */
+body {
+    background-color: #FAF0E6; /* a warm beige background for a cozy vibe */
+    font-family: 'Arial', sans-serif; /* a simple and clean typeface */
+    color: #4F4F4F; /* dark gray color for readability */
+    line-height: 1.6;
+    padding: 20px;
+}
+
+/* Header Styles */
+h1, h2 {
+    color: #333333; /* a deeper gray for header contrast */
+}
+
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 2em;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+/* Link Styles */
+a {
+    color: #6D597A; /* a muted purple */
+    text-decoration: none;
+}
+
+a:hover {
+    color: #B565A7; /* a brighter purple for hover */
+}
+
+/* List Styles */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    background-color: #FFE5D9; /* a light peach background for each list item */
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+ul li:hover {
+    background-color: #FFD1BA; /* a slightly darker peach on hover */
+}
